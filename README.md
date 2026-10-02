@@ -6,6 +6,8 @@ I enjoy breaking problems down and turning them into real projects. Most days yo
 
 Right now I'm curious about **Computer Vision, Deep Learning, Blockchain / Web3** and **Mobile Development with Flutter**. Always open to collaborate on **Web Development** and **AI/ML** projects.
 
+📄 Want to know more about me? Check out my [CV](https://drive.google.com/file/d/1hiodtZKai80hYg13yrlmmkzjn-QevC-T/view?usp=sharing).
+
 ### Currently Working On
 
 - Petrolida 2027 Website as Back-end Developer (Go, Gin, GORM, PostgreSQL) - [2026]
